@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"E:/Github/cmake-4.2.3-tutorial-source/cmake-4.2.3-tutorial-source/Step3/cmake_install.cmake",
-		"E:/Github/cmake-4.2.3-tutorial-source/cmake-4.2.3-tutorial-source/Step3/Tutorial/cmake_install.cmake",
-		"E:/Github/cmake-4.2.3-tutorial-source/cmake-4.2.3-tutorial-source/Step3/MathFunctions/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

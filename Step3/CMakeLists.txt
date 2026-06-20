@@ -15,7 +15,7 @@ option(TUTORIAL_BUILD_UTILITIES "Build the Tutorial executable" ON)
 #        otherwise truthy).
 
 if(TUTORIAL_BUILD_UTILITIES)
-    add_subdirectory(Tutorial)
+add_subdirectory(Tutorial)
 endif()
 
 add_subdirectory(MathFunctions)

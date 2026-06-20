@@ -1,0 +1,8 @@
+build
+*.o
+*.bin
+*.filters
+*.depend
+*.vcxproj
+build/*
+*.slnx
