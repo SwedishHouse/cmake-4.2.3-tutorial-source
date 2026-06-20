@@ -10,7 +10,7 @@
       "cacheVariables": {
         "CMAKE_C_COMPILER": "clang",
         "CMAKE_CXX_COMPILER": "clang++",
-        "CM": "Set the C++ standard version"
+        "CMAKE_CXX_STANDART": "20"
       }
     }
   ]
