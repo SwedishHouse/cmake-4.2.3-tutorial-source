@@ -8,15 +8,16 @@
 
 int main(int argc, char* argv[])
 {
-  if (argc < 2) {
+    if (argc < 2) {
     std::cout << std::format("Usage: {} number\n", argv[0]);
     return 1;
+    }
+
+    // convert input to double
+    double const inputValue = std::stod(argv[1]);
+
+    // calculate square root
+    double const outputValue = mathfunctions::sqrt(inputValue);
+    std::cout << std::format("The square root of {} is {}\n", inputValue,
+                            outputValue);
   }
-
-  // convert input to double
-  double const inputValue = std::stod(argv[1]);
-
-  // calculate square root
-  double const outputValue = mathfunctions::sqrt(inputValue);
-  std::cout << std::format("The square root of {} is {}\n", inputValue,
-                         outputValue);
