@@ -1,0 +1,17 @@
+{
+  "version": 4,
+  "configurePresets": [
+    {
+      "name": "tutorial",
+      "displayName": "Tutorial Preset",
+      "description": "Preset to use with the tutorial",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build",
+      "cacheVariables": {
+        "CMAKE_C_COMPILER": "clang",
+        "CMAKE_CXX_COMPILER": "clang++",
+        "CM": "Set the C++ standard version"
+      }
+    }
+  ]
+}

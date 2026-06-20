@@ -1,0 +1,19 @@
+# ninja log v7
+2	173	7932222220351658	build.ninja	4e75f140b5199606
+2	173	7932222220301572	E:/Github/cmake-4.2.3-tutorial-source/cmake-4.2.3-tutorial-source/Step1/build/cmake_install.cmake	4e75f140b5199606
+70	4994	7932188552944151	CMakeFiles/Tutorial.dir/Tutorial/Tutorial.cxx.obj	cbf433b6c425bf2f
+5113	5331	7932188603369013	Tutorial.exe	6249919232b077ae
+39	4987	7932188552631875	CMakeFiles/MathFunctions.dir/MathFunctions/MathFunctions.cxx.obj	de94213a041a7090
+4988	5113	7932188602123817	libMathFunctions.a	81ec2a683b89de34
+30	38	7932220175793343	clean	271c5b9f56266db
+2	173	7932222220321643	E:/Github/cmake-4.2.3-tutorial-source/cmake-4.2.3-tutorial-source/Step1/build/Tutorial/cmake_install.cmake	4e75f140b5199606
+2	173	7932222220341686	E:/Github/cmake-4.2.3-tutorial-source/cmake-4.2.3-tutorial-source/Step1/build/MathFunctions/cmake_install.cmake	4e75f140b5199606
+2	177	7932222220351658	build.ninja	4e75f140b5199606
+2	177	7932222220351658	E:/Github/cmake-4.2.3-tutorial-source/cmake-4.2.3-tutorial-source/Step1/build/cmake_install.cmake	4e75f140b5199606
+2	177	7932222220351658	E:/Github/cmake-4.2.3-tutorial-source/cmake-4.2.3-tutorial-source/Step1/build/Tutorial/cmake_install.cmake	4e75f140b5199606
+2	177	7932222220351658	E:/Github/cmake-4.2.3-tutorial-source/cmake-4.2.3-tutorial-source/Step1/build/MathFunctions/cmake_install.cmake	4e75f140b5199606
+31	39	7932222220967635	clean	271c5b9f56266db
+14	504	7932222221258095	MathFunctions/CMakeFiles/MathFunctions.dir/MathFunctions.cxx.obj	ed2eb93fd2fc1de5
+18	512	7932222221308696	Tutorial/CMakeFiles/Tutorial.dir/Tutorial.cxx.obj	3af23e35d98a0ff4
+505	632	7932222226174259	MathFunctions/libMathFunctions.a	1ce313b0119a7d5d
+632	868	7932222227443777	Tutorial/Tutorial.exe	9ad2ca46926917ae
